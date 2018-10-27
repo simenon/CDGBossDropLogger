@@ -1,0 +1,9 @@
+## APIVersion: 100004
+## Title: |cFF2222CrazyDutchGuy's|r Boss Drop Logger |c0066990.4|r
+## Version: 0.4
+## Description: |cFF2222CrazyDutchGuy's|r Boss Drop Logger |c0066990.4|r records bosses and boss loot. Send your savedvariables file to CrazyDutchGuy, see ESOUI for details. Do a /cdgbdl reset after sending the file to clear the data.
+## Author: CrazyDutchGuy
+## SavedVariables: CDGBossDropLogger_SavedVariables 
+
+CDGBossDropLogger.lua
+CDGBossDropLogger.xml

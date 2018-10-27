@@ -1,0 +1,9 @@
+<GuiXml>
+    <Controls>
+        <TopLevelControl name="CDGBossDropLogger">
+            <OnInitialized>
+                CDGBDL_OnInitialized()
+            </OnInitialized>
+        </TopLevelControl>
+    </Controls>
+</GuiXml>
